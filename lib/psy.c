@@ -17,6 +17,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
+#include <alloca.h>
 #include "vorbis/codec.h"
 #include "codec_internal.h"
 

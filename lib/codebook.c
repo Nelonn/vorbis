@@ -18,6 +18,7 @@
 #include <string.h>
 #include <math.h>
 #include <ogg/ogg.h>
+#include <alloca.h>
 #include "vorbis/codec.h"
 #include "codebook.h"
 #include "scales.h"

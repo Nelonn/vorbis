@@ -19,6 +19,7 @@
 #include <math.h>
 #include <string.h>
 #include <ogg/ogg.h>
+#include <alloca.h>
 #include "os.h"
 #include "misc.h"
 #include "vorbis/codec.h"

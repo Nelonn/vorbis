@@ -45,6 +45,7 @@ Carsten Bormann
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
+#include <alloca.h>
 #include "os.h"
 #include "smallft.h"
 #include "lpc.h"
