@@ -19,7 +19,7 @@
 #include <errno.h>
 #include <string.h>
 #include <math.h>
-#include <alloca.h>
+#include "stack_alloc.h"
 
 #include "vorbis/codec.h"
 

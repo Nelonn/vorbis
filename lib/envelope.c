@@ -19,7 +19,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <ogg/ogg.h>
-#include <alloca.h>
+#include "stack_alloc.h"
 #include "vorbis/codec.h"
 #include "codec_internal.h"
 
